@@ -39,7 +39,6 @@ I'm a developer with interests spanning full-stack development, cloud technologi
 | [Assignement-Assessment-Helper](https://github.com/lerlerchan/Assignement-Assessment-Helper) | Helps teachers assess assignments with privacy | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [chatbox-questions-exporter](https://github.com/lerlerchan/chatbox-questions-exporter) | Export questions from ChatboxAI desktop to Word | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [Prompt-libraries-for-Malaysia-Educators](https://github.com/lerlerchan/Prompt-libraries-for-Malaysia-Educators) | KSSR/KSSM-aligned AI prompt library for Malaysian teachers | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
-| [FundamentalAI_2026A](https://github.com/lerlerchan/FundamentalAI_2026A) | Fundamental AI course materials for 2026A | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 ### 🔬 Research & Statistics
 
