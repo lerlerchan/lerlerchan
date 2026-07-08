@@ -28,6 +28,7 @@ I'm a developer with interests spanning full-stack development, cloud technologi
 | [ExamOps-Orchestrator](https://github.com/lerlerchan/ExamOps-Orchestrator) | AI-powered exam paper formatter for Southern University College | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [Agent_K_Telegram](https://github.com/lerlerchan/Agent_K_Telegram) | Telegram bot agent ("Heibi" of OpenClaw) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | [rstudio-mcp-server](https://github.com/lerlerchan/rstudio-mcp-server) | MCP server for RStudio & jamovi — run R code from Claude | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [obsidian-tiktok-pipeline](https://github.com/lerlerchan/obsidian-tiktok-pipeline) | Automated pipeline that turns Obsidian notes into TikTok-ready videos | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [Duit-Cerdas-AI](https://github.com/lerlerchan/Duit-Cerdas-AI) | AI-powered personal finance assistant | ![AI](https://img.shields.io/badge/-AI-blueviolet) |
 
 ### 🏫 Education Tools
