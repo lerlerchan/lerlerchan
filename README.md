@@ -4,7 +4,7 @@ Developer exploring JavaScript, Python, DevOps, and more. Currently learning and
 
 ## About Me
 
-I'm a developer with interests spanning full-stack development, cloud technologies, and automation. I enjoy experimenting with new tools and frameworks to solve real-world problems. Always learning, always building.
+I'm an open source developer with interests spanning full-stack development, cloud technologies, and automation. I enjoy experimenting with new tools and frameworks to solve real-world problems. Always learning, always building.
 
 ## Tech Stack
 
